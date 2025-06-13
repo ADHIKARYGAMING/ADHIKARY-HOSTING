@@ -1,0 +1,86 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ADHIKARY HOSTING</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #2e7d32;
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    nav {
+      background-color: #1b5e20;
+      padding: 10px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .section {
+      padding: 50px 20px;
+      text-align: center;
+    }
+    .plans {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+    .plan-card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      padding: 20px;
+      width: 280px;
+    }
+    .plan-card h3 {
+      color: #2e7d32;
+    }
+    .badge {
+      background-color: #43a047;
+      color: white;
+      display: inline-block;
+      padding: 5px 12px;
+      border-radius: 20px;
+      margin-top: 10px;
+      font-size: 0.9rem;
+    }
+    .youtube-btn {
+      display: inline-block;
+      margin-top: 20px;
+      background-color: red;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ADHIKARY HOSTING</h1>
+    <p>Free and Premium Minecraft Hosting - 24/7 Online</p>
+  </header>  <nav>
+    <a href="#free">Free Hosting</a>
+    <a href="#premium">Premium Plans</a>
